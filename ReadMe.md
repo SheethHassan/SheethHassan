@@ -2,7 +2,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJlemE4NnJoM3Z6czF0bWdxdXludjl6ejljYWozNmt6M2Rxd3lybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
+<img data-importer="image" align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJlemE4NnJoM3Z6czF0bWdxdXludjl6ejljYWozNmt6M2Rxd3lybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
 
 ###
 
@@ -10,19 +10,13 @@
 
 ###
 
-<br clear="both">
-
 <h2 data-importer="text" align="left">About me</h2>
 
 ###
 
-<br clear="both">
-
 <p data-importer="text" align="left">I'm a Software development graduate passionate about building:<br>- 🧠 Practical software solutions,<br>- 👩‍💻 Full-stack applications <br>- 🤖AI-powered systems.</p>
 
 ###
-
-<br clear="both">
 
 <h2 data-importer="text" align="left">I code with</h2>
 
