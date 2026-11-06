@@ -2,21 +2,27 @@
 
 ###
 
+<img data-importer="image" align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJlemE4NnJoM3Z6czF0bWdxdXludjl6ejljYWozNmt6M2Rxd3lybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
+
+###
+
 <p data-importer="text" align="left">I'm a Software Developer</p>
 
 ###
+
+<br clear="both">
 
 <h2 data-importer="text" align="left">About me</h2>
 
 ###
 
-<img data-importer="image" align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJlemE4NnJoM3Z6czF0bWdxdXludjl6ejljYWozNmt6M2Rxd3lybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
+<br clear="both">
+
+<p data-importer="text" align="left">I'm a Software development graduate passionate about building:<br>- 🧠 Practical software solutions,<br>- 👩‍💻 Full-stack applications <br>- 🤖AI-powered systems.</p>
 
 ###
 
-<p data-importer="text" align="left">I'm a Software development graduate passionate about building practical software solutions, full-stack applications, and AI-powered automation systems.</p>
-
-###
+<br clear="both">
 
 <h2 data-importer="text" align="left">I code with</h2>
 
@@ -82,9 +88,15 @@
 
 ###
 
+<br clear="both">
+
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/SheethHassan/SheethHassan/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/SheethHassan/SheethHassan/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/SheethHassan/SheethHassan/snake-output/snake.svg" alt="Snake animation" />
 
 ###
